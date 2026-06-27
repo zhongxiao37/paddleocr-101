@@ -1,0 +1,8 @@
+阶段
+模型
+文字检测
+DB (Differentiable Binarization)
+方向分类
+轻量分类模型(use_angle_cls=True 启用）
+文字识别
+CRNN + PP-OCRv3 中文识别模型
